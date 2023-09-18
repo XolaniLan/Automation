@@ -1,4 +1,4 @@
 # Home-Automation-Website
 
 
-[Smarthome.pdf](https://github.com/XolaniLan/Home-Automation-Website/files/12646126/Smarthome.pdf)
+![FireShot Capture 002 - Smarthome - ](https://github.com/XolaniLan/Home-Automation-Website/assets/140137794/9f694ebb-70bc-4d76-8a94-f5304438ecc8)
