@@ -158,7 +158,7 @@ nav button {
 
 .nav_items {
   display: flex;
-  gap: 3rem;
+  gap: 2rem;
 }
 
 .nav_logo {
