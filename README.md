@@ -11,7 +11,7 @@ The SmartCastle Home Automation website is a platform developed using JavaScript
 
 ## Setup
 
-1. **Clone Repository**: `git clone [repository_url]`
+1. **Clone Repository**: `git clone [(https://github.com/XolaniLan/SmartCastleHomeAutomation.git)]`
 2. **Navigate to Directory**: `cd smartcastle-home-automation`
 3. **Open index.html in a Browser**
 
